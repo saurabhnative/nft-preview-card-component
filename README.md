@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1637499037/Blogimages/socialify-image_idxpoo.png" alt="project-image"></p>
 
-<p id="description">This is project built to showcase NFT card component design challenge from frontend mentor. More details here:- <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U">Frontend Mentor NFT card challenge</a></p>
+<p id="description">This is a project built to showcase NFT card component design challenge from frontend mentor. More details here:- <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U">Frontend Mentor NFT card challenge</a></p>
 
 <p align="center"><img src="https://img.shields.io/github/license/saurabhnative/nft-preview-card-component" alt="shields"><img src="https://img.shields.io/twitter/url?style=social&amp;url=https%3A%2F%2Fgithub.com%2Fsaurabhnative%2Fnft-preview-card-component" alt="shields"></p>
 
