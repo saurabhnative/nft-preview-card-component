@@ -11,9 +11,10 @@
 [https://nft-card-preview-component.netlify.app/](https://nft-card-preview-component.netlify.app/)
 
 <h2>Project Screenshots:</h2>
-
+<p align="left">
 <img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1637499360/Blogimages/Screenshot_2021-11-21_at_6.25.52_PM_u9qalg.png" alt="project-screenshot" width="200" height="400/">
-<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1637499983/Blogimages/Screenshot_2021-11-21_at_6.36.15_PM_fcixnf.png" alt="project-screenshot" width="400" height="400/">
+<img src="https://res.cloudinary.com/dk22rcdch/image/upload/v1637499983/Blogimages/Screenshot_2021-11-21_at_6.36.15_PM_fcixnf.png" alt="project-screenshot" width="600" height="400/">
+  </p>
 
 <h2>🧐 Features</h2>
 
